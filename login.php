@@ -43,7 +43,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
             </div>
         </div>
         
-        <h2 class="text-2xl font-bold text-blue-900 mb-6 italic">Welcome to My Daily Journal</h2>
+        <h2 class="text-2xl font-bold text-blue-900 mb-6 italic">Welcome to my Daily Journal</h2>
         
         <form method="POST" class="space-y-4 text-left">
             <input type="text" name="username" placeholder="Username" required
